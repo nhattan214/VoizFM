@@ -59,6 +59,8 @@ the corresponding listening time, which shows that users honestly participated i
 tailored strategies.
 * Female users are the primary drivers of listening time.
 
+**Review and endorsement** from the company's CEO for this project can be found in the recommendation section at [my LinkedIn](https://www.linkedin.com/in/pntan/)
+
 ## 6. How to run
 * Installed required libraries, and Jupyter notebook (This notebook can also be run on GoogleColab)
 * Clone/Download this whole project
